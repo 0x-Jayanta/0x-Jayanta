@@ -6,7 +6,7 @@
    <br />
   ┌──(🐞root㉿Ciph3r_Strike)-[~]  <br />
   └─>cat Skills.txt  <br />
-  🛠️ Skills : VAPT🛡️ | DFIR🔍 | Malware Analysis🦠 | SOC/CTI🕵️‍♂️ | CTF🚩| Netword Security🔒 | Cloud Security  <br />
+  🛠️ Skills : VAPT🛡️ | DFIR🔍 | Malware Analysis🦠 | SOC/CTI🕵️‍♂️ | CTF🚩| Net. Security🔒 | Cloud Security  <br />
    <br />
   ┌──(🐞root㉿Ciph3r_Strike)-[~]  <br />
   └─>cat Tech_Skills.txt  <br />
