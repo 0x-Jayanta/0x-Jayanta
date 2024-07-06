@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jayanta Mahato</h1>
 <h3 align="center">
-  ┌──(🐞root㉿Ciph3r_Strike)-[~] 
-  └─>cat About_Me.txt 
+  ┌──(🐞root㉿Ciph3r_Strike)-[~] <br />
+  └─>cat About_Me.txt <br /> 
   📋 Profile : I'm Jayanta Mahato🕵️‍♂️, a fervent Cyber Security enthusiast specializing in Ethical Hacking and Red Teaming. My digital journey has led me to uncover vulnerabilities and strengthen virtual bastions. Pursuing an 🎓M.Sc. in Cyber Security at Maulana Abul Kalam Azad University of Technology, my passion lies in fortifying the ever-evolving realm of cybersecurity. 
   
-  ┌──(🐞root㉿Ciph3r_Strike)-[~] 
-  └─>cat Skills.txt 🛠️ Skills : Penetration Testing🔍 | Digital Forensics🔬 | Red Teaming🔴 | Network Security🔒 | Cloud Security☁️ | CTI🌐 | SOC🛡️ | Quantum Security🔑 | Docker🐳 
+  ┌──(🐞root㉿Ciph3r_Strike)-[~]  <br />
+  └─>cat Skills.txt  <br />
+  🛠️ Skills : Penetration Testing🔍 | Digital Forensics🔬 | Red Teaming🔴 | Network Security🔒 | Cloud Security☁️ | CTI🌐 | SOC🛡️ | Quantum Security🔑 | Docker🐳 
   
-  ┌──(🐞root㉿Ciph3r_Strike)-[~] 
-  └─>cat Tech_Skills.txt 
-  │ 💻 Programming: C | Java | Python | Rust | Shell Scripting | Python GUI │ 🌐 Web Dev: PHP | HTML | CSS | Node.js | jQuery | JavaScript 
-  │ 📊 Databases: MySQL | MongoDB 
-  │ 🛠️ Tools: Metasploit | Nessus | Burpsuite | Splunk | Security Onion | Wazuh | Git | Docker 
+  ┌──(🐞root㉿Ciph3r_Strike)-[~]  <br />
+  └─>cat Tech_Skills.txt  <br />
+  │ 💻 Programming: C | Java | Python | Rust | Shell Scripting | Python GUI │ 🌐 Web Dev: PHP | HTML | CSS | Node.js | jQuery | JavaScript  <br />
+  │ 📊 Databases: MySQL | MongoDB  <br />
+  │ 🛠️ Tools: Metasploit | Nessus | Burpsuite | Splunk | Security Onion | Wazuh | Git | Docker  <br />
   </h3>
 
 <h3 align="left">Connect with me:</h3>
