@@ -2,11 +2,11 @@
 <h3>
   ┌──(🐞root㉿Ciph3r_Strike)-[~] <br />
   └─>cat About_Me.txt <br /> 
-  📋 Profile : I'm Jayanta Mahato🕵️‍♂️, a fervent Cyber Security enthusiast specializing in Ethical Hacking and Red Teaming. My digital journey has led me to uncover vulnerabilities and strengthen virtual bastions. Pursuing an 🎓M.Sc. in Cyber Security at Maulana Abul Kalam Azad University of Technology, my passion lies in fortifying the ever-evolving realm of cybersecurity. 
+  📋 Profile : I'm Jayanta Mahato🕵️‍♂️, a fervent Cyber Security enthusiast specializing in Ethical Hacking and Red Teaming. My digital journey has led me to uncover vulnerabilities and strengthen virtual bastions. Pursuing an 🎓M.Sc. in Cyber Security at Maulana Abul Kalam Azad University of Technology, my passion lies in fortifying the ever-evolving realm of cybersecurity.  <br />
   
   ┌──(🐞root㉿Ciph3r_Strike)-[~]  <br />
   └─>cat Skills.txt  <br />
-  🛠️ Skills : Penetration Testing🔍 | Digital Forensics🔬 | Red Teaming🔴 | Network Security🔒 | Cloud Security☁️ | CTI🌐 | SOC🛡️ | Quantum Security🔑 | Docker🐳 
+  🛠️ Skills : Penetration Testing🔍 | Digital Forensics🔬 | Red Teaming🔴 | Network Security🔒 | Cloud Security☁️ | CTI🌐 | SOC🛡️ | Quantum Security🔑 | Docker🐳  <br />
   
   ┌──(🐞root㉿Ciph3r_Strike)-[~]  <br />
   └─>cat Tech_Skills.txt  <br />
