@@ -10,7 +10,8 @@
    <br />
   ┌──(🐞root㉿Ciph3r_Strike)-[~]  <br />
   └─>cat Tech_Skills.txt  <br />
-  │ 💻 Programming: C | Java | Python | Rust | Shell Scripting | Python GUI │ 🌐 Web Dev: PHP | HTML | CSS | Node.js | jQuery | JavaScript  <br />
+  │ 💻 Programming: C | Java | Python | Rust | Shell Scripting | Python GUI  <br />
+  │ 🌐 Web Dev: PHP | HTML | CSS | Node.js | jQuery | JavaScript  <br />
   │ 📊 Databases: MySQL | MongoDB  <br />
   │ 🛠️ Tools: Metasploit | Nessus | Burpsuite | Splunk | Security Onion | Wazuh | Git | Docker  <br />
   </h3>
