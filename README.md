@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayanta Mahato</h1>
-<h3 align="center">
+<h3>
   ┌──(🐞root㉿Ciph3r_Strike)-[~] <br />
   └─>cat About_Me.txt <br /> 
   📋 Profile : I'm Jayanta Mahato🕵️‍♂️, a fervent Cyber Security enthusiast specializing in Ethical Hacking and Red Teaming. My digital journey has led me to uncover vulnerabilities and strengthen virtual bastions. Pursuing an 🎓M.Sc. in Cyber Security at Maulana Abul Kalam Azad University of Technology, my passion lies in fortifying the ever-evolving realm of cybersecurity. 
