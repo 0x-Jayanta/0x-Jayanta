@@ -7,7 +7,7 @@
   ┌──(🐞root㉿Ciph3r_Strike)-[~]  <br />
   └─>cat Skills.txt  <br />
   🛠️ Skills : Penetration Testing🔍 | Digital Forensics🔬 | Red Teaming🔴 | Network Security🔒 | Cloud Security☁️ | CTI🌐 | SOC🛡️ | Quantum Security🔑 | Docker🐳  <br />
-  
+   <br />
   ┌──(🐞root㉿Ciph3r_Strike)-[~]  <br />
   └─>cat Tech_Skills.txt  <br />
   │ 💻 Programming: C | Java | Python | Rust | Shell Scripting | Python GUI │ 🌐 Web Dev: PHP | HTML | CSS | Node.js | jQuery | JavaScript  <br />
